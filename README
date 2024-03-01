@@ -1,0 +1,8 @@
+1. src 
+    - myclient.cpp - is the source file for myclient application
+    - myserver.cpp - is the source file for myclient application
+2. bin 
+    - myclient - is the executable for my client application 
+    - myserver - is the executable for my server application 
+
+    
